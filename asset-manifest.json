@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e45f18a.css",
+    "main.js": "/static/js/main.aab4e34c.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/vecteezy_cartoon-character-with-the-desk-working-concept-illustration_44448949.png": "/static/media/vecteezy_cartoon-character-with-the-desk-working-concept-illustration_44448949.ac7bc874837ce093a196.png",
+    "static/media/Green Brown Minimalist Shield Hand Logo(1).png": "/static/media/Green Brown Minimalist Shield Hand Logo(1).b93254d55de5eaa7d40a.png",
+    "static/media/freepik__upload__83207.jpeg": "/static/media/freepik__upload__83207.45d910998cac2e631b86.jpeg",
+    "static/media/d5fe2938-f306-4509-b8d0-0e16d4997af83.jpg": "/static/media/d5fe2938-f306-4509-b8d0-0e16d4997af83.7232723900c3e885bb84.jpg",
+    "static/media/e commerce 3.jpg": "/static/media/e commerce 3.aa404b2418abca67c520.jpg",
+    "static/media/webp": "/static/media/0ebdf5eaecbcab493384f45b09fda87b0b20900173ce05c6a05f9dc4a3004c16.bed51f2e939e75aa56ab.webp",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7e45f18a.css.map": "/static/css/main.7e45f18a.css.map",
+    "main.aab4e34c.js.map": "/static/js/main.aab4e34c.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e45f18a.css",
+    "static/js/main.aab4e34c.js"
+  ]
+}
